@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranngocbao113&label=Profile%20views&color=0e75b6&style=flat" alt="tranngocbao113" /> </p>
 
-- 🔭 I’m currently working on **my own Project**
-
+- 🔭 This will be the place where I store projects for the purpose of practicing data analysis. If you are having difficulty with analysis, you can refer to these files.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
